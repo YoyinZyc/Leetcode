@@ -1,5 +1,10 @@
 package main.Array;
-
+/**
+ * 
+ * @author Cactus
+ * @category Array-Easy
+ * 
+ */
 public class Pro27_Remove_Element {
 	public int removeElement(int[] nums, int val) {
 		if (nums.length == 0) {

@@ -1,7 +1,12 @@
 package main.Array;
 
 import java.util.Arrays;
-
+/**
+ * 
+ * @author Cactus
+ * @category Array-Easy
+ * 
+ */
 public class Pro414_Third_Maximum_Number {
 	public int thirdMax(int[] nums) {
 		 Arrays.sort(nums);

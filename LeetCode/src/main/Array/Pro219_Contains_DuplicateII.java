@@ -1,7 +1,12 @@
 package main.Array;
 
 import java.util.Arrays;
-
+/**
+ * 
+ * @author Cactus
+ * @category Array-Easy
+ * 
+ */
 public class Pro219_Contains_DuplicateII {
 	public boolean containsNearbyDuplicate(int[] nums, int k) {
 		if (nums.length<=1) {

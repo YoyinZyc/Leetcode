@@ -2,7 +2,12 @@ package main.Array;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * 
+ * @author Cactus
+ * @category Array-Easy
+ * 
+ */
 public class Pro118_Pascal_TriangleI {
 	public List<List<Integer>> generate(int numRows) {
 		List<List<Integer>> lists = new ArrayList<List<Integer>>();

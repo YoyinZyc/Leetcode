@@ -1,7 +1,12 @@
 package main.Array;
 
 import java.util.ArrayList;
-
+/**
+ * 
+ * @author Cactus
+ * @category Array-Easy
+ * 
+ */
 public class Pro283_Move_Zeros {
 	public void moveZeroes(int[] nums) {
 		

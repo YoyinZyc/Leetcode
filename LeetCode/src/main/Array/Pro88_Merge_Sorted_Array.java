@@ -1,7 +1,12 @@
 package main.Array;
 
 import java.util.Arrays;
-
+/**
+ * 
+ * @author Cactus
+ * @category Array-Easy
+ * 
+ */
 public class Pro88_Merge_Sorted_Array {
 	public void merge(int[] nums1, int m, int[] nums2, int n) {
 		

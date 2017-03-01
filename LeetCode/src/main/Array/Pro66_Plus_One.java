@@ -1,5 +1,10 @@
 package main.Array;
-
+/**
+ * 
+ * @author Cactus
+ * @category Array-Easy
+ * 
+ */
 public class Pro66_Plus_One {
 	public int[] plusOne(int[] digits) {
 		int length = digits.length;

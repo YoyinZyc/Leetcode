@@ -1,7 +1,12 @@
 package main.Array;
 
 import java.util.Arrays;
-
+/**
+ * 
+ * @author Cactus
+ * @category Array-Easy
+ * 
+ */
 public class Pro26_Remove_Duplicates_from_Sorted_Array {
 	public int removeDuplicates(int[] nums) {
 		if (nums.length == 0) {

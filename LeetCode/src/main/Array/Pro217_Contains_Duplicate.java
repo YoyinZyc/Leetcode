@@ -1,7 +1,12 @@
 package main.Array;
 
 import java.util.Arrays;
-
+/**
+ * 
+ * @author Cactus
+ * @category Array-Easy
+ * 
+ */
 public class Pro217_Contains_Duplicate {
 	public boolean containsDuplicate(int[] nums) {
 		if(nums.length<=1){

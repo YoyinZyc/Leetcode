@@ -1,7 +1,12 @@
 package main.Array;
 
 import java.util.Arrays;
-
+/**
+ * 
+ * @author Cactus
+ * @category Array-Easy
+ * 
+ */
 public class Pro169_Majority_Element {
 	public int majorityElement(int[] nums) {
 		 if(nums.length == 1){

@@ -1,5 +1,10 @@
 package main.Array;
-
+/**
+ * 
+ * @author Cactus
+ * @category Array-Easy
+ * 
+ */
 public class Pro122_Best_TimeII {
 	public int maxProfit(int[] prices) {
 		if (prices.length <= 1) {

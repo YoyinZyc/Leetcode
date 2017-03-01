@@ -2,8 +2,14 @@ package main.Array;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * 
+ * @author Cactus
+ * @category Array-Easy
+ * 
+ */
 public class Pro119_Pascal_TriangleII {
+	
 	public List<Integer> getRow(int rowIndex) {
 		List<Integer> list = new ArrayList<Integer>();
 		if (rowIndex < 0) {

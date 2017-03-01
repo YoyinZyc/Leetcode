@@ -1,5 +1,10 @@
 package main.Array;
-
+/**
+ * 
+ * @author Cactus
+ * @category Array-Easy
+ * 
+ */
 public class Pro167_Two_SumII {
 	public int[] twoSum(int[] numbers, int target) {
 		int indexs[] = {1,2};

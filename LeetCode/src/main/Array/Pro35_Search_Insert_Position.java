@@ -1,5 +1,10 @@
 package main.Array;
-
+/**
+ * 
+ * @author Cactus
+ * @category Array-Easy
+ * 
+ */
 public class Pro35_Search_Insert_Position {
 	public int searchInsert(int[] nums, int target) {
 		if (target <= nums[0]) {

@@ -1,5 +1,10 @@
 package main.Array;
-
+/**
+ * 
+ * @author Cactus
+ * @category Array-Easy
+ * 
+ */
 public class Pro268_Missing_Number {
 	public int missingNumber(int[] nums) {
 		int length = nums.length;
