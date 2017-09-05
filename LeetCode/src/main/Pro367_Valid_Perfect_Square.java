@@ -17,7 +17,7 @@ public class Pro367_Valid_Perfect_Square {
 		while(end-start > 1) {
 			int index = (end-start)/2;
 			if((long)((end-index) * (end-index)) == num) return true;
-			if ((end-index) * (end-index) > num) {
+			if ((long)((end-index) * (end-index)) > num) {
 				end = end-index;
 			}else {
 				start = end-index;
